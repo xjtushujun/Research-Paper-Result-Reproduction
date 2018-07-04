@@ -1,16 +1,5 @@
 # Research Paper -Result Reproduction
 
-
-## Architectures
-* [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
-* [ZFNet](https://arxiv.org/abs/1311.2901)
-* [VGG16](https://arxiv.org/abs/1505.06798)
-* [ResNet](https://arxiv.org/abs/1704.06904)
-* [GoogLeNet](https://arxiv.org/abs/1409.4842)
-* [Inception](https://arxiv.org/abs/1512.00567)
-* [Xception](https://arxiv.org/abs/1610.02357)
-* [MobileNet](https://arxiv.org/abs/1704.04861)
-
 ## Semantic Segmentation
 * [FCN](https://arxiv.org/abs/1411.4038)
 * [SegNet](https://arxiv.org/abs/1511.00561)
