@@ -24,3 +24,5 @@
 * [SSD](https://arxiv.org/abs/1512.02325)
 * [YOLO](https://arxiv.org/abs/1506.02640)
 * [YOLO9000](https://arxiv.org/abs/1612.08242)
+* [Region-based Fully Convolutional Network (R-FCN)](https://arxiv.org/abs/1605.06409)
+* [Mask Region-based Convolutional Network (Mask R-CNN)](https://arxiv.org/abs/1703.06870)
