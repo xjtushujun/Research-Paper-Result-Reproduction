@@ -10,3 +10,4 @@ raw/train-labels-idx1-ubyte
 *.pdf
 *.xml
 *.5CD7033NH4
+.ipynb_checkpoints
