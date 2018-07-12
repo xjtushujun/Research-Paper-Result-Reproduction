@@ -1,0 +1,17 @@
+Conv layer should be precceded with BatchNorm
+Add Dropouts after Dense and ConV Layer Only
+Pooling Layer should not be Coninuously stacked 
+
+
+Last Layer Should be Ideally Flatten and Dense With Softmax -  Multi Label Classification Sigmoid - Binary
+
+
+Analysis to Do: 
+
+Model Depth Efficiency: No of Layers Depth vs Accuracy 
+Trainning Complexity : No of Layes vs Trainning Time (Include Per Iteration Timing)
+
+Model Generalisation Capability : No of Layers vs Train Accuracy and Validation Accuracy
+
+Model Capacity : Accuracy vs Number of Params
+
