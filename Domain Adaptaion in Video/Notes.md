@@ -1,11 +1,10 @@
-# NOTES
+[Label Efficient Learning of Transferable Representations Across Domains and Tasks](6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks.pdf)
 
 
 ## TLDR;
 
 
 ## NOTES
-
 
 ### TODO
 1. Process the MNIST and SVNH Dataset as required: Crudely Done
