@@ -7,7 +7,7 @@ raw/t10k-labels-idx1-ubyte
 raw/train-images-idx3-ubyte
 *.gz
 raw/train-labels-idx1-ubyte
-*.pdf
+#*.pdf
 *.xml
 *.5CD7033NH4
 .ipynb_checkpoints
