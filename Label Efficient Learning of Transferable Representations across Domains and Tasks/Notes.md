@@ -25,3 +25,8 @@
 * (v) Fine-tune + adversarial: in addition to baseline ii, the model is also trained on D1 and D3 with a domain adversarial loss; 
 * (vi.) Full model: fine-tune the model with the proposed multi-layer domain adversarial loss.
 
+
+
+
+# Module : # TO DO:
+Softmax with Temperature
